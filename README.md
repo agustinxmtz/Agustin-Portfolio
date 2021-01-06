@@ -3,4 +3,4 @@
 Link:
 https://agustinxmtz.github.io/Agustin-Portfolio/
 
-Pictures are provided by google Images and NASA.gov
+Pictures are from google Images and NASA.gov
